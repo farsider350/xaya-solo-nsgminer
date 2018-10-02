@@ -1,5 +1,8 @@
 # xaya neoscrypt miner
 
+
+Xaya latest release can be found here: https://github.com/xaya/xaya/releases
+
 		Can be used for pool or solo.
 		Neoscrypt-START.bat is setup for solo with a xaya.conf as follows
 		
